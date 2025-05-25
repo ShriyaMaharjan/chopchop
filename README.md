@@ -4,7 +4,7 @@ ChopChop is a dynamic recipe finder web application . This is a front-end-only p
 
 ## Project Description
 
-ChopChop is a dynamic recipe finder web application that allows users to explore a wide range of recipes and discover new culinary delights. Built with React Router, React.js, and Tailwind CSS, Foodvarse offers a seamless and visually appealing user experience.
+ChopChop is a dynamic recipe finder web application that allows users to explore a wide range of recipes and discover new culinary delights. Built with React Router, React.js, and Tailwind CSS, ChopChop offers a seamless and visually appealing user experience.
 
 With ChopChop, users can easily navigate through different recipe categories, search for specific dishes, and access detailed recipe pages. The application's intuitive and responsive design ensures a smooth browsing experience across various devices.
 
