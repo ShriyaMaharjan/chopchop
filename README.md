@@ -1,12 +1,12 @@
-# Foodvarse
+# ChopChop
 
-Foodvarse is a dynamic recipe finder web application . This is a front-end-only project that is implemented using React, React Router, Redux, Redux Toolkit, and Tailwind CSS.
+ChopChop is a dynamic recipe finder web application . This is a front-end-only project that is implemented using React, React Router, Redux, Redux Toolkit, and Tailwind CSS.
 
 ## Project Description
 
-Foodvarse is a dynamic recipe finder web application that allows users to explore a wide range of recipes and discover new culinary delights. Built with React Router, React.js, and Tailwind CSS, Foodvarse offers a seamless and visually appealing user experience.
+ChopChop is a dynamic recipe finder web application that allows users to explore a wide range of recipes and discover new culinary delights. Built with React Router, React.js, and Tailwind CSS, Foodvarse offers a seamless and visually appealing user experience.
 
-With Foodvarse, users can easily navigate through different recipe categories, search for specific dishes, and access detailed recipe pages. The application's intuitive and responsive design ensures a smooth browsing experience across various devices.
+With ChopChop, users can easily navigate through different recipe categories, search for specific dishes, and access detailed recipe pages. The application's intuitive and responsive design ensures a smooth browsing experience across various devices.
 
 ## Project Features
 
@@ -37,4 +37,4 @@ To run this project, follow these steps:
 
 ## Conclusion
 
-Foodvarse is a simple and easy-to-use online e-commerce store that offers a variety of food items for purchase. With its user-friendly interface and easy navigation, users can quickly find what they're looking for and make a purchase. If you're looking for a convenient and hassle-free way to buy food items, Foodvarse is the perfect platform for you.
+ChopChop is a simple and easy-to-use online e-commerce store that offers a variety of food items for purchase. With its user-friendly interface and easy navigation, users can quickly find what they're looking for and make a purchase. If you're looking for a convenient and hassle-free way to buy food items, Foodvarse is the perfect platform for you.
